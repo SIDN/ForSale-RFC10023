@@ -16,7 +16,7 @@ go build name.go
 A basic validator / syntax checker
 
 > [!TIP]
-> If you are a developer who wants to write your own tools, make sure to carefully read [the draft](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) or the [implementation checklist](forsale_checklist.md).
+> If you are a developer who wants to write your own tools, make sure to carefully read [the RFC](https://datatracker.ietf.org/doc/rfc10023/) or the [implementation checklist](forsale_checklist.md).
 
 ## fs-generate.go
 
@@ -24,9 +24,9 @@ A basic record generator - see demo output below.
 
 Also see
 
-* https://forsalereg.sidnlabs.nl/demo
+* https://rfc10023.nl/demo
 * https://forsale.bitfire.nl
-* https://forsalereg.sidnlabs.nl/forsale (in Dutch 🇳🇱)
+* https://rfc10023.nl/forsale (in Dutch 🇳🇱)
 
 Some domain names to test:
 ~~~
