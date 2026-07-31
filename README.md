@@ -37,7 +37,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - **Supports automation** – helps domain brokers, domain investors, and acquisition tools reliably discover domains for sale.
 - **Lightweight** – uses the DNS, so no extra infrastructure or web scraping is needed.
 
-## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
+<!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
 ![rpp logo](media/ForSale-banner.png)
 
