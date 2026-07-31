@@ -1,6 +1,6 @@
 # ♻️ ForSale - Advanced usage
 
-Here are some more (advanced) examples. See [draft-davids-forsalereg](https://datatracker.ietf.org/doc/draft-davids-forsalereg/) for all details.
+Here are some more (advanced) examples. See [RFC10023](https://datatracker.ietf.org/doc/html/rfc10023) for all details.
 
 ## 🌐 Unicode
 
