@@ -20,7 +20,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 > [!TIP]
 > Check out the [examples](/examples) directory for more cool, advanced stuff!
 
-ℹ️ More info here: https://forsalereg.sidnlabs.nl/
+ℹ️ More info here: https://rfc10023.nl/
 
 ## 👀 Check our one pager on http://forsaletxt.nl
 > [!CAUTION]
