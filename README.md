@@ -48,6 +48,6 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
-![rpp logo](media/ForSale-banner.png)
+![ForSale logo](media/ForSale-banner.png)
 
 [^1]: https://datatracker.ietf.org/doc/rfc10023/
