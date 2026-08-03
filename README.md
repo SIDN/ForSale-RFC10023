@@ -17,9 +17,6 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 > [!IMPORTANT]
 > 🚨 Make sure to add the version tag `v=FORSALE1;` first, followed by a valid content tag (such as `ftxt=` or `furi=`) before entering the actual content value. Only then does it count as an official "for sale" sign that specialized tools will recognize.
 
-> [!TIP]
-> Check out the [examples](/examples) directory for more cool, advanced stuff!
-
 ℹ️ More info here: https://rfc10023.nl/
 
 ## 👀 Check our one pager on http://forsaletxt.nl
@@ -44,6 +41,9 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - **Registries and registrars** - work together to improve visibility, [as SIDN did with the For Sale button in its WHOIS service](/examples/use-cases.md).
 - **Online WHOIS/RDAP services** - check for a For Sale sign and let your users know when a domain name is available for purchase.
 - **Coders** - build tools that make it easy to generate syntactically correct records or discover existing ones, making life easier for non-technical users.
+
+> [!TIP]
+> Check out the [examples](/examples) directory for more cool, advanced stuff!
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
