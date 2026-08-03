@@ -42,6 +42,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - **Brokers** - add the For Sale indicator to every domain name in your portfolio and increase visibility.
 - **Domain name suggestion tools** - look for a For Sale indicator for every domain name you generate, rather than only checking whether the domain name is already registered.
 - **Registries and registrars** - work together to improve visibility, [as SIDN did with the For Sale button in its WHOIS service](/examples/use-cases.md).
+- **Online WHOIS/RDAP services** - check for a For Sale sign and let your users know when a domain name is available for purchase.
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
