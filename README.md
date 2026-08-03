@@ -43,6 +43,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - **Domain name suggestion tools** - look for a For Sale indicator for every domain name you generate, rather than only checking whether the domain name is already registered.
 - **Registries and registrars** - work together to improve visibility, [as SIDN did with the For Sale button in its WHOIS service](/examples/use-cases.md).
 - **Online WHOIS/RDAP services** - check for a For Sale sign and let your users know when a domain name is available for purchase.
+- **Coders** - build tools that make it easy to generate syntactically correct records or discover existing ones, making life easier for non-technical users.
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
