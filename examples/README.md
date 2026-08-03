@@ -69,5 +69,7 @@ A party could include a digital signature for various reasons, for example to pr
 > [!IMPORTANT]
 > Remember: `fcod=` content values only have meaning between parties that have agreed on their use. They have no universal meaning, unlike the `furi=` and `fval=` content tag-value pairs. Let us know if you use it for something cool!
 
+![ForSale stamp](/media/for-sale-stamp-1.png)
+
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
