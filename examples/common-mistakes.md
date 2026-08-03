@@ -16,5 +16,5 @@ _for-sale.example.com. 1800 IN TXT "v=FORSALE1;furi=https://example.net/forsale"
 _for-sale.example.com. 1800 IN TXT "v=FORSALE1;fval=EUR1000"
 ~~~
 
-## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER
+<!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
