@@ -37,6 +37,12 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - **Supports automation** – helps domain brokers, domain investors, and acquisition tools reliably discover domains for sale.
 - **Lightweight** – uses the DNS, so no extra infrastructure or web scraping is needed.
 
+## 🤔 For who ?
+- **Individual domain owners** - just put up the For Sale sign and increase your chances of being discovered as this method gains traction.
+- **Brokers** - add the For Sale indicator to every domain name in your portfolio and increase visibility.
+- **Domain name suggestion tools** - look for a For Sale indicator for every domain name you generate, rather than only checking whether the domain name is already registered.
+- **Registries and registrars** - work together to improve visibility, [as SIDN did with the For Sale button in its WHOIS service](/examples/use-cases.md).
+
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
 ![rpp logo](media/ForSale-banner.png)
