@@ -34,7 +34,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - **Supports automation** – helps domain brokers, domain investors, and acquisition tools reliably discover domains for sale.
 - **Lightweight** – uses the DNS, so no extra infrastructure or web scraping is needed.
 
-## 🤔 For who ?
+## 🤔 For whom ?
 - **Individual domain owners** - just put up the For Sale sign and increase your chances of being discovered as this method gains traction.
 - **Brokers** - add the For Sale indicator to every domain name in your portfolio and increase visibility.
 - **Mediation services** - your case is much stronger when the domain name is clearly marked with a For Sale sign.
