@@ -55,6 +55,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://nameocean.net/article/rfc-10023-the-dns-record-that-could-revolutionize-domain-flipping/
 - https://www.inwx.com/en/blog/for-sale-dns-record-explained
 - https://catches.io/blog/dns-for-sale-records-verified-sale-paths
+- https://magazin2.chatujme.cz/clanek/rfc-10023-for-sale-dns
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
