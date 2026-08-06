@@ -46,6 +46,16 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 > [!TIP]
 > Check out the [examples](/examples) directory for more cool, advanced stuff!
 
+## 🗞️ In the news
+- https://www.bortzmeyer.org/10023.html
+- https://domainincite.com/31851-now-you-can-plant-for-sale-signs-directly-into-your-domains
+- https://www.techtimes.com/articles/322752/20260803/dns-gets-first-standard-commercial-intent-rfc-10023-enables-sale-tags.htm
+- https://webhosting.today/2026/08/03/a-dns-record-now-flags-domains-for-sale-adoption-is-up-to-registrars/
+- https://seodisias.com/blog/rfc-10023-for-sale-dns/
+- https://nameocean.net/article/rfc-10023-the-dns-record-that-could-revolutionize-domain-flipping/
+- https://www.inwx.com/en/blog/for-sale-dns-record-explained
+- https://catches.io/blog/dns-for-sale-records-verified-sale-paths
+
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
 ![ForSale logo](media/ForSale-banner.png)
