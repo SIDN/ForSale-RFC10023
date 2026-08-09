@@ -61,6 +61,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://www.gtldti.com/blog/rfc-10023-the-new-ietf-standard-turning-dns-into-a-commercial-signals-layer
 - https://elsolitario.org/2026/08/09/registro-dns-for-sale-rfc-10023/
 - https://www.top10hebergeurs.com/guide/infos-industrie/un-enregistrement-dns-peut-desormais-signaler-un-domaine-mis-en-vente
+- https://domainbrief.de/artikel/ein-rfc-bringt-das-verkaufsschild-ins-dns
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
