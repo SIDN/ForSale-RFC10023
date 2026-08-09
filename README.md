@@ -58,8 +58,8 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://magazin2.chatujme.cz/clanek/rfc-10023-for-sale-dns
 - https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
 - https://specification.website/spec/foundations/for-sale-dns/
+- https://www.gtldti.com/blog/rfc-10023-the-new-ietf-standard-turning-dns-into-a-commercial-signals-layer
 - https://elsolitario.org/2026/08/09/registro-dns-for-sale-rfc-10023/
-- https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
 - https://www.top10hebergeurs.com/guide/infos-industrie/un-enregistrement-dns-peut-desormais-signaler-un-domaine-mis-en-vente
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
