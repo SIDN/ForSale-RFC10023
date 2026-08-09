@@ -56,6 +56,8 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://www.inwx.com/en/blog/for-sale-dns-record-explained
 - https://catches.io/blog/dns-for-sale-records-verified-sale-paths
 - https://magazin2.chatujme.cz/clanek/rfc-10023-for-sale-dns
+- https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
+- https://specification.website/spec/foundations/for-sale-dns/
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
