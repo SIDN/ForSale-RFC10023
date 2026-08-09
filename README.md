@@ -59,6 +59,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
 - https://specification.website/spec/foundations/for-sale-dns/
 - https://elsolitario.org/2026/08/09/registro-dns-for-sale-rfc-10023/
+- https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
