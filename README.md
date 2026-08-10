@@ -64,6 +64,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://domainbrief.de/artikel/ein-rfc-bringt-das-verkaufsschild-ins-dns
 - https://www.weaving.news/news/019fe1bc-618b-7d89-b450-ee0b328836f3
 - https://dzen.ru/a/andRGVisDFMq7eug
+- https://www.xela.au/saas/a-domain-can-now-say-it-is-for-sale-in-dns-7e6f90
 
 ## 🧰 Third party implementations
 - https://forsaledns.net/
