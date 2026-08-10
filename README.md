@@ -62,6 +62,10 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://elsolitario.org/2026/08/09/registro-dns-for-sale-rfc-10023/
 - https://www.top10hebergeurs.com/guide/infos-industrie/un-enregistrement-dns-peut-desormais-signaler-un-domaine-mis-en-vente
 - https://domainbrief.de/artikel/ein-rfc-bringt-das-verkaufsschild-ins-dns
+- https://www.weaving.news/news/019fe1bc-618b-7d89-b450-ee0b328836f3
+
+## 🧰 Third party implementations
+- https://forsaledns.net/
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
