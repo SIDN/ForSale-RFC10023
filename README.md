@@ -65,6 +65,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://www.weaving.news/news/019fe1bc-618b-7d89-b450-ee0b328836f3
 - https://dzen.ru/a/andRGVisDFMq7eug
 - https://www.xela.au/saas/a-domain-can-now-say-it-is-for-sale-in-dns-7e6f90
+- https://www.dyj.live/knowledge/story_id-gm_explore-rss_a883b083f3d8a86da5d9a206d1553052
 
 ## 🧰 Third party implementations
 - https://forsaledns.net/
