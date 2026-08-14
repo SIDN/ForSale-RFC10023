@@ -72,7 +72,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 ## 🧰 Third party implementations
 - https://forsaledns.net/
 - https://for-sale-dns.hx-std.com/
-- https://github.com/brandonyoungdev/tldx/tree/main/internal/forsale
+- https://github.com/brandonyoungdev/tldx#domains-for-sale-rfc-10023
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
