@@ -68,6 +68,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://www.dyj.live/knowledge/story_id-gm_explore-rss_a883b083f3d8a86da5d9a206d1553052
 - https://tldtab.com/nl/updates/rfc-10023-for-sale-dns
 - https://news.hada.io/topic?id=32278
+- https://fr.news.hada.io/topic?id=32278
 - https://asibiont.com/blog/a-domain-can-pochemu-domen-teper-mozhet-soobshchit-o-prodazhe-cherez-dns
 
 ## 🧰 Third party implementations
