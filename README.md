@@ -75,6 +75,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://forsaledns.net/
 - https://for-sale-dns.hx-std.com/
 - https://github.com/brandonyoungdev/tldx#domains-for-sale-rfc-10023
+- https://github.com/happyDomain/happydomain has support for RFC10023
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
