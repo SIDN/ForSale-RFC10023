@@ -55,7 +55,7 @@ Not sure yet? 🎓 Learn about the concept via the [ForSale Expert](https://expe
 - https://nameocean.net/article/rfc-10023-the-dns-record-that-could-revolutionize-domain-flipping/
 - https://www.inwx.com/en/blog/for-sale-dns-record-explained
 - https://catches.io/blog/dns-for-sale-records-verified-sale-paths
-- https://magazin2.chatujme.cz/clanek/rfc-10023-for-sale-dns
+- https://tech-blog.chatujme.cz/clanek/rfc-10023-for-sale-dns
 - https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
 - https://specification.website/spec/foundations/for-sale-dns/
 - https://www.gtldti.com/blog/rfc-10023-the-new-ietf-standard-turning-dns-into-a-commercial-signals-layer
