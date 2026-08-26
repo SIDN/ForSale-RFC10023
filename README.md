@@ -72,6 +72,7 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://news.hada.io/topic?id=32278
 - https://fr.news.hada.io/topic?id=32278
 - https://asibiont.com/blog/a-domain-can-pochemu-domen-teper-mozhet-soobshchit-o-prodazhe-cherez-dns
+- https://419.consulting/encrypted-dns/f/dns-in-the-news-17th-august-2026
 
 ## 🧰 Third party implementations
 - https://forsaledns.net/
