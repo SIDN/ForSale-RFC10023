@@ -59,7 +59,6 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://catches.io/blog/dns-for-sale-records-verified-sale-paths
 - https://tech-blog.chatujme.cz/clanek/rfc-10023-for-sale-dns
 - https://ecosistemastartup.com/rfc-10023-2026-como-vender-dominios-sin-perder-trafico-con-dns/
-- https://specification.website/spec/foundations/for-sale-dns/
 - https://www.gtldti.com/blog/rfc-10023-the-new-ietf-standard-turning-dns-into-a-commercial-signals-layer
 - https://elsolitario.org/2026/08/09/registro-dns-for-sale-rfc-10023/
 - https://www.top10hebergeurs.com/guide/infos-industrie/un-enregistrement-dns-peut-desormais-signaler-un-domaine-mis-en-vente
@@ -73,6 +72,10 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://fr.news.hada.io/topic?id=32278
 - https://asibiont.com/blog/a-domain-can-pochemu-domen-teper-mozhet-soobshchit-o-prodazhe-cherez-dns
 - https://419.consulting/encrypted-dns/f/dns-in-the-news-17th-august-2026
+
+## 🗂️ Other resources
+- https://icannwiki.org/RFC_10023
+- https://specification.website/spec/foundations/for-sale-dns/
 
 ## 🧰 Third party implementations
 - https://forsaledns.net/
