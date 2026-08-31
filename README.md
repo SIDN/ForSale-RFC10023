@@ -77,11 +77,15 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://icannwiki.org/RFC_10023
 - https://specification.website/spec/foundations/for-sale-dns/
 
-## 🧰 Third party implementations
-- https://forsaledns.net/
-- https://for-sale-dns.hx-std.com/
-- https://github.com/brandonyoungdev/tldx#domains-for-sale-rfc-10023
-- https://github.com/happyDomain/happydomain has support for RFC10023
+## 🧰 Third-party implementations
+
+A few implementations and tools that already support RFC 10023:
+
+* **[forsaledns.net](https://forsaledns.net/)** — The first implementation, and still our recommended starting point.
+* **[for-sale-dns.hx-std.com](https://for-sale-dns.hx-std.com/)** — Simple, lightweight, and does the job nicely.
+* **[tldx](https://github.com/brandonyoungdev/tldx#domains-for-sale-rfc-10023)** — RFC 10023 support built right into the domain lookup tool.
+* **[happyDomain](https://github.com/happyDomain/happydomain)** — Supports RFC 10023 for identifying domains that are for sale.
+* **[PWhois.net](https://ipwhois.net/domain/example.nl)** — Now with RFC 10023 support too.
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
