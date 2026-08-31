@@ -73,6 +73,7 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://asibiont.com/blog/a-domain-can-pochemu-domen-teper-mozhet-soobshchit-o-prodazhe-cherez-dns
 - https://419.consulting/encrypted-dns/f/dns-in-the-news-17th-august-2026
 - https://okky.kr/spaces/it-news/1561969
+- https://imasters.com.br/noticia/dominio-agora-pode-se-declarar-a-venda-direto-no-dns-via-rfc-10023
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
