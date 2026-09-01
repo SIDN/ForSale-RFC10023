@@ -74,6 +74,7 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://419.consulting/encrypted-dns/f/dns-in-the-news-17th-august-2026
 - https://okky.kr/spaces/it-news/1561969
 - https://imasters.com.br/noticia/dominio-agora-pode-se-declarar-a-venda-direto-no-dns-via-rfc-10023
+- https://news.linxi.com.au/news/new-dns-standard-allows-domain-owners-to-signal-sale-intent-without-disrupting-traffic
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
