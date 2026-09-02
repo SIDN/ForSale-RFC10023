@@ -90,7 +90,7 @@ A few implementations and tools that already support RFC 10023:
 * **[happyDomain](https://github.com/happyDomain/happydomain)** — Supports RFC 10023 for identifying domains that are for sale.
 * **[PWhois.net](https://ipwhois.net/domain/example.nl)** — Now with RFC 10023 support too.
 * **[Inspect My DNS](https://inspectmydns.com/example.nl)** - Has a banner on top when a `_for-sale` label is found.
-* **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is - seems immature.
+* **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
