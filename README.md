@@ -91,7 +91,7 @@ A few implementations and tools that already support RFC 10023:
 * **[PWhois.net](https://ipwhois.net/domain/example.nl)** — Now with RFC 10023 support too.
 * **[Inspect My DNS](https://inspectmydns.com/example.nl)** - Has a banner on top when a `_for-sale` label is found.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
-* **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome extension
+* **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
