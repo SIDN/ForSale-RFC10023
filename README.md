@@ -77,6 +77,7 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://news.linxi.com.au/news/new-dns-standard-allows-domain-owners-to-signal-sale-intent-without-disrupting-traffic
 - https://circleid.com/posts/a-domain-is-registered-but-is-it-really-unavailable
 - https://dotweekly.com/blog/list-domain-for-sale-dns-record
+- https://www.captaindns.com/en/blog/dns-for-sale-txt-rfc-10023
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
