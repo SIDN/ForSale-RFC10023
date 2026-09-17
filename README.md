@@ -96,7 +96,7 @@ A few implementations and tools that already support RFC 10023:
 * **[RFC10023.de](https://www.rfc10023.de/en)** - Cool generator/validator, in German and English, with badge option: [![RFC 10023 DNS Verified](https://img.shields.io/badge/RFC_10023-DNS_Verified-10b981?style=flat-square&logo=cloudflare)](https://rfc10023.de/en/validator?d=example.nl)
 * **[Dotweekly](https://dotweekly.com/domain-for-sale)** - Generator / checker ⭐
 * **[Domains Monitor](https://domains-monitor.com/for-sale-domains/)** - is monitoring this as well (full dataset)⭐
-* **[EasyDNScheck](https://www.easydnscheck.com/)** - Free DNS Checker 
+* **[EasyDNScheck](https://www.easydnscheck.com/)** - Free DNS Checker ⭐
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
