@@ -49,6 +49,9 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 > Check out the [examples](/examples) directory for more cool, advanced stuff!
 
 ## 🗞️ In the news
+
+An incomplete list:
+
 - https://www.bortzmeyer.org/10023.html
 - https://domainincite.com/31851-now-you-can-plant-for-sale-signs-directly-into-your-domains
 - https://www.techtimes.com/articles/322752/20260803/dns-gets-first-standard-commercial-intent-rfc-10023-enables-sale-tags.htm
@@ -78,6 +81,7 @@ A paradigm shift in domain discovery: registrars, marketplaces and others can au
 - https://circleid.com/posts/a-domain-is-registered-but-is-it-really-unavailable
 - https://dotweekly.com/blog/list-domain-for-sale-dns-record
 - https://www.captaindns.com/en/blog/dns-for-sale-txt-rfc-10023
+- https://btw.media/en/dns-said-domain-for-sale-did-not-authorize-deal
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
