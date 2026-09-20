@@ -102,6 +102,7 @@ A few implementations and tools that already support RFC 10023:
 * **[Dotweekly](https://dotweekly.com/domain-for-sale)** - Generator / checker ⭐
 * **[Domains Monitor](https://domains-monitor.com/for-sale-domains/)** - is monitoring this as well (full dataset)⭐
 * **[EasyDNScheck](https://www.easydnscheck.com/)** - Free DNS Checker ⭐
+* **[DomaintoolBelt](https://domaintoolbelt.com/aftermarket/for-sale)** - DomaintoolBelt has a for-sale market filter
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
