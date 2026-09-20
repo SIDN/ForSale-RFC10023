@@ -103,7 +103,7 @@ A few implementations and tools that already support RFC 10023:
 * **[Domains Monitor](https://domains-monitor.com/for-sale-domains/)** - is monitoring this as well (full dataset).
 * **[EasyDNScheck](https://www.easydnscheck.com/)** - Free DNS Checker.
 * **[DomaintoolBelt](https://domaintoolbelt.com/aftermarket/for-sale)** - DomaintoolBelt has a for-sale market filter.
-* **[RDAP.ai](https://rdap.ai/)** - RDAP.ai - a domain research tool for exploring availability, and viewing RDAP registration data
+* **[RDAP.ai](https://rdap.ai/)** - a domain research tool for exploring availability, and viewing RDAP registration data.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
