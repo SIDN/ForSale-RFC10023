@@ -108,7 +108,7 @@ A few implementations and tools that already support RFC 10023:
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
-Also:
+Also these marketplaces:
 * **[Atom](https://www.atom.com/blog/atom-adopts-rfc-10023-every-eligible-listing-is-getting-a-machine-readable-for-sale-signal)** - (Formerly Squadhelp), a full-service domain registrar and premium marketplace.
 
 Please note that there are quite a few more, such as NameShift and EliteDomains, but they support it silently, so we don't include links to them on this page.
