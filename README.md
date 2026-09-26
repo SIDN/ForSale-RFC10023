@@ -118,7 +118,7 @@ Please note that there are quite a few more, such as NameShift, Zycon Domains, N
 ### Miscellaneous
 
 - [Can your agent buy a domain?](https://github.com/brzcky/agent-buys-a-domain)
-- [Web3](https://shakex.fun/docs#list)
+- [ShakeX - Decentralized domains for sale](https://shakex.fun/docs#list)
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
