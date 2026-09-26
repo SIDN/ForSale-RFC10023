@@ -105,6 +105,7 @@ A few implementations and tools that already support RFC 10023:
 * **[DomaintoolBelt](https://domaintoolbelt.com/aftermarket/for-sale)** - has a for-sale market filter.
 * **[DomainKits MCP](https://github.com/ABTdomain/domainkits-mcp/issues/3#issuecomment-5782832086)** - has support in the API.
 * **[RDAP.ai](https://rdap.ai/)** - a domain research tool for exploring availability, and viewing RDAP registration data.
+* **[AdamProbolsky/SKILL](https://github.com/AdamProbolsky/add-for-sale-sign-to-domain)** - A provider-neutral skill for publishing a no-code domain for-sale signal using the RFC 10023 _for-sale DNS TXT record.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
