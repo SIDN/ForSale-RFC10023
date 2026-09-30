@@ -111,7 +111,7 @@ A few implementations and tools that already support RFC 10023:
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
 ### Also these marketplaces:
-* **[NameGarage](https://namegarage.com/blog/for-sale-dns-records)** - NameGarage.
+* **[NameGarage](https://namegarage.com/blog/for-sale-dns-records)** - Namegarage.
 * **[Atom](https://www.atom.com/blog/atom-adopts-rfc-10023-every-eligible-listing-is-getting-a-machine-readable-for-sale-signal)** - (Formerly Squadhelp), a full-service domain registrar and premium marketplace.
 
 Please note that there are quite a few more, such as NameShift, Zycon Domains and EliteDomains, but they support it silently, so we don't include links to them on this page.
