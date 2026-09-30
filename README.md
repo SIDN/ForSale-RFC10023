@@ -119,6 +119,7 @@ Please note that there are quite a few more, such as NameShift, Zycon Domains, N
 
 - [Can your agent buy a domain?](https://github.com/brzcky/agent-buys-a-domain)
 - [ShakeX - Decentralized domains for sale](https://shakex.fun/docs#list)
+- [.Agt - The .agt Registry](https://agtnames.com/name/forsale)
 
 <!-- ## ⚒ WORK IN PROGRESS - PLEASE CHECK BACK LATER -->
 
