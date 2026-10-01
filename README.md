@@ -115,7 +115,7 @@ A few implementations and tools that already support RFC 10023:
 * **[NameGarage](https://namegarage.com/blog/for-sale-dns-records)** - Namegarage.
 * **[Atom](https://www.atom.com/blog/atom-adopts-rfc-10023-every-eligible-listing-is-getting-a-machine-readable-for-sale-signal)** - (Formerly Squadhelp), a full-service domain registrar and premium marketplace.
 
-Please note that there are quite a few more, such as NameShift, Zycon Domains and EliteDomains, but they support it silently, so we don't include links to them on this page.
+Please note that there are quite a few more, such as NameShift, Zycon Domains, [PremiumDoms.io](https://www.spaceship.com/nl/sellerhub/portfolio/premiumdoms/) and EliteDomains, but they support it silently, so we don't include links to them on this page.
 
 ### Miscellaneous
 
