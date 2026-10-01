@@ -83,6 +83,7 @@ An incomplete list:
 - https://www.captaindns.com/en/blog/dns-for-sale-txt-rfc-10023
 - https://btw.media/en/dns-said-domain-for-sale-did-not-authorize-deal
 - https://domaingang.com/domain-news/atom-makes-for-sale-domains-easier-for-domainer-tools-to-find/
+- https://genztech.blog/p/rfc-10023-for-sale-dns-record/
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
