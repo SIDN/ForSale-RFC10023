@@ -99,7 +99,7 @@ A few implementations and tools that already support RFC 10023:
 * **[happyDomain](https://github.com/happyDomain/happydomain)** — Supports RFC 10023 for identifying domains that are for sale.
 * **[PWhois.net](https://ipwhois.net/domain/example.nl)** — Now with RFC 10023 support too.
 * **[Inspect My DNS](https://inspectmydns.com/example.nl)** - Has a banner on top when a `_for-sale` label is found.
-* **[IPAddress.to](https://ipaddress.to/whois/example.nl)** - IPAddress.to - cool toolset, now with support for RFC10023.
+* **[IPAddress.to](https://ipaddress.to/whois/example.nl)** - IPAddress.to - cool toolset, [now with support for RFC10023](https://ipaddress.to/blog/rfc-10023-for-sale-dns-record/).
 * **[RFC10023.de](https://www.rfc10023.de/en)** - Cool generator/validator, in German and English, with badge option: [![RFC 10023 DNS Verified](https://img.shields.io/badge/RFC_10023-DNS_Verified-10b981?style=flat-square&logo=cloudflare)](https://rfc10023.de/en/validator?d=example.nl).
 * **[Dotweekly](https://dotweekly.com/domain-for-sale)** - Generator / checker.
 * **[Domains Monitor](https://domains-monitor.com/for-sale-domains/)** - is monitoring this as well (full dataset).
