@@ -109,6 +109,7 @@ A few implementations and tools that already support RFC 10023:
 * **[RDAP.ai](https://rdap.ai/)** - a domain research tool for exploring availability, and viewing RDAP registration data.
 * **[AdamProbolsky/SKILL](https://github.com/AdamProbolsky/add-for-sale-sign-to-domain)** - A provider-neutral skill for publishing a no-code domain for-sale signal using the RFC 10023 _for-sale DNS TXT record.
 * **[SLD Checker](https://www.dnforum.com/sld)** - Provided by DNForum.com.
+* **[DNSAudtio.io](https://dnsaudit.io/)** - The Domain Security Auditor, who also posted [a great blog](https://dnsaudit.io/blog/rfc-10023-for-sale-txt-record) about it.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
