@@ -112,7 +112,7 @@ A few implementations and tools that already support RFC 10023:
 * **[DNSAudit.io](https://dnsaudit.io/)** - The Domain Security Auditor, who also posted [a great blog](https://dnsaudit.io/blog/rfc-10023-for-sale-txt-record) about it.
 * **[whoami.xj1.fr](https://whoami.xj1.fr/domain/example.nl)** - 'domain lookup' informative tool.
 * **[domain-check](https://github.com/saidutt46/domain-check/pull/38)** - Universal domain exploration engine.
-* **[Domain Digger](https://digger.tools/)** - Full Toolkit for Next-Level Domain Analysis.
+* **[Domain Digger](https://digger.tools/lookup/example.nl)** - Full Toolkit for Next-Level Domain Analysis.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
