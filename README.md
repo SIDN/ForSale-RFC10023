@@ -110,7 +110,8 @@ A few implementations and tools that already support RFC 10023:
 * **[AdamProbolsky/SKILL](https://github.com/AdamProbolsky/add-for-sale-sign-to-domain)** - A provider-neutral skill for publishing a no-code domain for-sale signal using the RFC 10023 _for-sale DNS TXT record.
 * **[SLD Checker](https://www.dnforum.com/sld)** - Provided by DNForum.com.
 * **[DNSAudit.io](https://dnsaudit.io/)** - The Domain Security Auditor, who also posted [a great blog](https://dnsaudit.io/blog/rfc-10023-for-sale-txt-record) about it.
-* **[whoami.xj1.fr](https://whoami.xj1.fr/domain/example.nl)** - 'domain lookup' informative tool
+* **[whoami.xj1.fr](https://whoami.xj1.fr/domain/example.nl)** - 'domain lookup' informative tool.
+* **[domain-check](https://github.com/saidutt46/domain-check/pull/38)** - Universal domain exploration engine.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
