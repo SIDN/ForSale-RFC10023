@@ -3,18 +3,20 @@
 While basic sales metadata is defined under **RFC10023**, some registrars and marketplaces implement additional proprietary extensions to provide more granular financial details. 💰
 
 ### 🏷️ Standard vs. Proprietary Tags
-The records typically follow the pattern `v=FORSALE1;[tag]=[value]`. While tags like `furi`, `ftxt`, `fval`, and `fcod` adhere to the RFC10023 standard for domain sales, tags such as `fmin`, `frnt`, and `flto` are **proprietary extensions used by NameShift**. These extensions are already (partly) interpreted by specialized industry tools, such as **DomainsToolBelt**, to automate the extraction of detailed pricing models. 🔍
+The records typically follow the pattern `v=FORSALE1;[tag]=[value]`. While tags like `furi`, `ftxt`, `fval`, and `fcod` adhere to the RFC10023 standard for domain sales, tags such as `fmin`, `frnt`, and `flto` are **proprietary extensions developed by NameShift**. 
+
+These tags are currently undocumented, though they may be included in a future **proposed RFC update**. They are already partially interpreted by specialized industry tools, such as **DomainsToolBelt**, to automate the extraction of detailed pricing models. 🔍
 
 ### 📊 Tag Definitions
 
-| Tag | Origin | Description | Example |
+| Tag | Origin | Description | Example & Logic |
 | :--- | :--- | :--- | :--- |
 | `furi` | RFC10023 | **For Sale URI**: The direct URL to the marketplace listing. | `https://buy.nameshift.com/...` |
 | `fval` | RFC10023 | **For Sale Value**: The asking price for the domain. | `EUR14999.00` |
 | `fcod` | RFC10023 | **For Sale Code**: A unique identifier for the listing. | `NLFS-OTQ0...` |
-| `fmin` | NameShift | **Minimum Offer**: The lowest acceptable offer the seller will consider. | `EUR500.00` |
-| `frnt` | NameShift | **Rental Price**: The cost to lease the domain monthly. (e.g., `P1M` = Period 1 Month). | `EUR649.95/P1M` |
-| `flto` | NameShift | **Lease-to-Own**: Terms for an installment-based purchase agreement. | `EUR1312.00/P1M/P2M/P12M` |
+| `fmin` | NameShift | **Minimum Offer**: The lowest acceptable bid. | `EUR99.00` (Bidding starts from €99) |
+| `frnt` | NameShift | **Rental Price**: Price per interval + the interval period. | `EUR525.00/P1M` (€525 per 1 month) |
+| `flto` | NameShift | **Lease-to-Own**: Price per interval + interval + min intervals + max intervals. | `EUR150.00/P1M/P2M/P12M` (from €150/mo, interval 1mo, min 2mo, max 12mo) |
 
 ### ⚙️ Technical Implementation
 These values are typically hosted on a dedicated subdomain (e.g., `_for-sale.[domain]`). This structure ensures that sales metadata remains organized and can be efficiently queried by automated brokers and valuation tools without interfering with the primary domain's DNS configuration. 🛠️
