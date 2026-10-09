@@ -7,7 +7,7 @@ The records typically follow the pattern `v=FORSALE1;[tag]=[value]`. While tags 
 
 These tags are currently undocumented, though they may be included in a future **proposed RFC update**. They are already partially interpreted by specialized industry tools, such as **DomainsToolBelt**, to automate the extraction of detailed pricing models. 🔍
 
-### 📊 Tag Definitions
+### ⚙️ Tag Definitions
 
 | Tag | Origin | Description | Example & Logic |
 | :--- | :--- | :--- | :--- |
@@ -18,9 +18,6 @@ These tags are currently undocumented, though they may be included in a future *
 | `frnt` | NameShift | **Rental Price**: Price per interval + the interval period. | `EUR525.00/P1M` (€525 per 1 month) |
 | `flto` | NameShift | **Lease-to-Own**: Price per interval + interval + min intervals + max intervals. | `EUR150.00/P1M/P2M/P12M` (from €150/mo, interval 1mo, min 2mo, max 12mo) |
 
-### ⚙️ Technical Implementation
-These values are typically hosted on a dedicated subdomain (e.g., `_for-sale.[domain]`). This structure ensures that sales metadata remains organized and can be efficiently queried by automated brokers and valuation tools without interfering with the primary domain's DNS configuration. 🛠️
-
 ***
 
-⚠️ **Disclaimer:** *The exact meaning and syntax of the proprietary NameShift tags (fmin, frnt, flto) are not officially documented by the provider. The definitions provided here are based on observed patterns and industry interpretation and should not be treated as official technical documentation.*
+⚠️ **Disclaimer:** *The exact meaning and syntax of the proprietary NameShift tags (fmin, frnt, flto) are not officially documented. The definitions provided here are based on observed patterns and industry interpretation and should not be treated as official technical documentation.*
