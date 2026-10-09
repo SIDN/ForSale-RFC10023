@@ -36,6 +36,18 @@ Because the `flto` field contains multiple variables in a single string, its str
 *   **High-Value/Short-Term Example:** `v=FORSALE1;flto=EUR5250.00/P1M/P2M/P3M`
     *   *Meaning:* Starting from €5,250.00 per month, with a minimum of 2 months and a maximum of 3 months.
 
+**Complete example:**
+
+```
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=EUR14999.00"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fmin=EUR500.00"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;frnt=EUR649.95/P1M"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;flto=EUR1312.41/P1M/P2M/P12M"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fcod=NLFS-OTQ0NTY5Y2YtY2ExNS00YWM0LTljNTgtN2I2YmU3Mzc4Njg5"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://buy.nameshift.com/nixi.org"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=BIN, rent or lease-to-own possible"
+```
+
 <!--
 *Note: In "Lease-before-own" scenarios, the price per interval may vary depending on the total number of intervals chosen (longer durations may incur different interest or total costs).*
 -->
