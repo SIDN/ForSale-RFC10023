@@ -14,9 +14,10 @@ These tags are currently undocumented, though they may be included in a future *
 | `furi` | RFC10023 | **For Sale URI**: The direct URL to the marketplace listing. | `https://buy.nameshift.com/...` |
 | `fval` | RFC10023 | **For Sale Value**: The asking price for the domain. | `EUR14999.00` |
 | `fcod` | RFC10023 | **For Sale Code**: A unique identifier for the listing. | `NLFS-OTQ0...` |
-| `fmin` | NameShift | **Minimum Offer**: The lowest acceptable bid. | `EUR99.00` (Bidding starts from €99) |
-| `frnt` | NameShift | **Rental Price**: Price per interval + the interval period. | `EUR525.00/P1M` (€525 per 1 month) |
-| `flto` | NameShift | **Lease-to-Own**: Price per interval + interval + min intervals + max intervals. | `EUR150.00/P1M/P2M/P12M` (from €150/mo, interval 1mo, min 2mo, max 12mo) |
+| `ftxt` | RFC10023 | **For Sale Text**: Intended to contain concise, human-readable text | `Buy It Now or Lease-to-Own` |
+| `fmin` | NameShift | **Minimum Offer**: The lowest acceptable bid. | `EUR500.00` (Bidding starts from €500) |
+| `frnt` | NameShift | **Rental Price**: Price per interval + the interval period. | `EUR649.95/P1M` (€649.95 per 1 month) |
+| `flto` | NameShift | **Lease-to-Own**: Price per interval + interval + min intervals + max intervals. | `EUR1325.00/P1M/P2M/P12M` (from €1325/mo, interval 1mo, min 2mo, max 12mo) |
 
 ### 🔍 Detailed Breakdown: Lease-to-Own (`flto`)
 
@@ -42,10 +43,10 @@ Because the `flto` field contains multiple variables in a single string, its str
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fval=EUR14999.00"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fmin=EUR500.00"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;frnt=EUR649.95/P1M"
-_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;flto=EUR1312.41/P1M/P2M/P12M"
-_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fcod=NLFS-OTQ0NTY5Y2YtY2ExNS00YWM0LTljNTgtN2I2YmU3Mzc4Njg5"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;flto=EUR1325.00/P1M/P2M/P12M"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://buy.nameshift.com/nixi.org"
-_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=BIN, rent or lease-to-own possible"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=BIN, LTO or RTO possible"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fcod=NLFS-OTQ0NTY5Y2YtY2ExNS00YWM0LTljNTgtN2I2YmU3Mzc4Njg5"
 ```
 
 <!--
