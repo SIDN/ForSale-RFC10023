@@ -49,10 +49,11 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=BIN, LTO or RTO possible"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fcod=NLFS-OTQ0NTY5Y2YtY2ExNS00YWM0LTljNTgtN2I2YmU3Mzc4Njg5"
 ```
 
-<!--
-*Note: In "Lease-before-own" scenarios, the price per interval may vary depending on the total number of intervals chosen (longer durations may incur different interest or total costs).*
--->
+*Note: In "Lease-to-own" scenarios, the price per interval may vary depending on the total number of intervals chosen (longer durations may incur different interest or total costs).*
 
 ***
 
 ⚠️ **Disclaimer:** *The exact meaning and syntax of the proprietary NameShift tags (fmin, frnt, flto) are not officially documented. The definitions provided here are based on observed patterns and industry interpretation and should not be treated as official technical documentation.*
+
+<!-- Acknowledgements: Jop Peters (NameShift) -->
+
