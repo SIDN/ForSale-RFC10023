@@ -45,7 +45,7 @@ _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fmin=EUR500.00"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;frnt=EUR649.95/P1M"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;flto=EUR1325.00/P1M/P2M/P12M"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;furi=https://buy.nameshift.com/example.nl"
-_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=BIN, LTO or RTO possible"
+_for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;ftxt=BIN, LTO or renting possible"
 _for-sale.example.nl.	1800	IN	TXT	"v=FORSALE1;fcod=NLFS-OTQ0NTY5Y2YtY2ExNS00YWM0LTljNTgtN2I2YmU3Mzc4Njg5"
 ```
 
