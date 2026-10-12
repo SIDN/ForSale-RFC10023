@@ -19,6 +19,9 @@ These tags are currently undocumented, though they may be included in a future *
 | `frnt` | NameShift | **Rental Price**: Price per interval + the interval period. | `EUR649.95/P1M` (€649.95 per 1 month) |
 | `flto` | NameShift | **Lease-to-Own**: Price per interval + interval + min intervals + max intervals. | `EUR1325.00/P1M/P2M/P12M` (from €1325/mo, interval 1mo, min 2mo, max 12mo) |
 
+> [!IMPORTANT]
+> 🚨 Some tools reject records containing proprietary tags and flag them as non-conformant. For example, [the ForsaleDNS API](https://forsaledns.net/developers) will refuse such records.
+ 
 ### 🔍 Detailed Breakdown: Lease-to-Own (`flto`)
 
 Because the `flto` field contains multiple variables in a single string, its structure is more complex than other tags. The value is composed of four distinct parameters separated by slashes:
