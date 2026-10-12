@@ -20,7 +20,7 @@ These tags are currently undocumented, though they may be included in a future *
 | `flto` | NameShift | **Lease-to-Own**: Price per interval + interval + min intervals + max intervals. | `EUR1325.00/P1M/P2M/P12M` (from €1325/mo, interval 1mo, min 2mo, max 12mo) |
 
 > [!IMPORTANT]
-> 🚨 Some tools reject records containing proprietary tags and flag them as non-conformant. For example, [the ForsaleDNS API](https://forsaledns.net/developers) will refuse such records.
+>🚨 Tools might reject records containing proprietary tags or flag them as non-conformant. For example, the [ForsaleDNS API](https://forsaledns.net/developers) will return `"conformant": false` in its JSON output, but will still recognise the domain as being for sale.
  
 ### 🔍 Detailed Breakdown: Lease-to-Own (`flto`)
 
