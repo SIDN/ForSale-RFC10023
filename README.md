@@ -84,6 +84,7 @@ An incomplete list:
 - https://btw.media/en/dns-said-domain-for-sale-did-not-authorize-deal
 - https://domaingang.com/domain-news/atom-makes-for-sale-domains-easier-for-domainer-tools-to-find/
 - https://genztech.blog/p/rfc-10023-for-sale-dns-record/
+- https://weberblog.net/is-a-registered-domain-really-unavailable/
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
