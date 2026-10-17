@@ -85,6 +85,7 @@ An incomplete list:
 - https://domaingang.com/domain-news/atom-makes-for-sale-domains-easier-for-domainer-tools-to-find/
 - https://genztech.blog/p/rfc-10023-for-sale-dns-record/
 - https://weberblog.net/is-a-registered-domain-really-unavailable/
+- https://isthatdomainforsale.com/guides/what-is-rfc10023/
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
