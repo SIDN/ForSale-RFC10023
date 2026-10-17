@@ -115,6 +115,7 @@ A few implementations and tools that already support RFC 10023:
 * **[whoami.xj1.fr](https://whoami.xj1.fr/domain/example.nl)** - 'domain lookup' informative tool.
 * **[domain-check](https://github.com/saidutt46/domain-check/pull/38)** - Universal domain exploration engine.
 * **[Domain Digger](https://digger.tools/lookup/example.nl)** - Full Toolkit for Next-Level Domain Analysis.
+* **[IsThatDomainForSale.com](https://isthatdomainforsale.com/?domain=example.nl)** - Find out if a domain is for sale, check its DNS signals and preview its website.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 
