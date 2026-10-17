@@ -86,6 +86,7 @@ An incomplete list:
 - https://genztech.blog/p/rfc-10023-for-sale-dns-record/
 - https://weberblog.net/is-a-registered-domain-really-unavailable/
 - https://isthatdomainforsale.com/guides/what-is-rfc10023/
+- https://siekman.io//blog/rfc-10023-domeinnaam-te-koop-via-dns (Dutch)
 
 ## 🗂️ Other resources
 - https://icannwiki.org/RFC_10023
