@@ -119,6 +119,7 @@ A few implementations and tools that already support RFC 10023:
 * **[IsThatDomainForSale.com](https://isthatdomainforsale.com/?domain=example.nl)** - Find out if a domain is for sale, check its DNS signals and preview its website.
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
+* **[Namecheap-python](https://github.com/adriangalilea/namecheap-python/commit/56a5b30)** - An RFC 10023 related commit.
 
 ### Also these marketplaces:
 * **[NameGarage](https://namegarage.com/blog/for-sale-dns-records)** - Namegarage.
