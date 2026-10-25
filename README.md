@@ -121,6 +121,7 @@ A few implementations and tools that already support RFC 10023:
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 * **[Namecheap-python](https://github.com/adriangalilea/namecheap-python/commit/56a5b30)** - An RFC 10023 related commit.
 * **[DNSControl](https://github.com/DNSControl/dnscontrol/releases/tag/v5.6.0)** - Infrastructure as Code for DNS, got a builder for RFC 10023 "_for-sale" records.
+* **[Hivex](https://hivex.si/tools/domain-for-sale/example.nl)** - The free "Is this domain for sale?" checker on Hivex now reads _for-sale TXT records as defined in RFC 10023.
 
 * **[ZoekDomeinen.nl](https://zoekdomeinen.nl/)** - In Dutch and .nl domeins only.
 
