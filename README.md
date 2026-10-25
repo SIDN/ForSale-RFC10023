@@ -120,6 +120,7 @@ A few implementations and tools that already support RFC 10023:
 * **[badge.forsale](https://badge.forsale/)** - Not entirely sure what this is, it feels a bit rough around the edges.
 * **[Chromium Extension](https://github.com/mdavids/ForSale-RFC10023-browser-extensions)** - Experimental, but fully functional Chrome browser extension.
 * **[Namecheap-python](https://github.com/adriangalilea/namecheap-python/commit/56a5b30)** - An RFC 10023 related commit.
+* **[DNSControl](https://github.com/DNSControl/dnscontrol/releases/tag/v5.6.0)** - Infrastructure as Code for DNS, got a builder for RFC 10023 "_for-sale" records.
 
 * **[ZoekDomeinen.nl](https://zoekdomeinen.nl/)** - In Dutch and .nl domeins only.
 
