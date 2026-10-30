@@ -126,7 +126,7 @@ A few implementations and tools that already support RFC 10023:
 * **[AdminToolkit](https://admintoolkit.io/dns-lookup/)** - DNS Lookup feature has a RFC 10023 _for-sale check and generator option.
 
 * **[ZoekDomeinen.nl](https://zoekdomeinen.nl/)** - In Dutch and .nl domeins only.
-* **[HostingDetauls](https://expert.hostingdetails.eu/for-sale.php)** - Expert Tools.
+* **[HostingDetails](https://expert.hostingdetails.eu/for-sale.php)** - Expert Tools.
 
 ### Also these marketplaces:
 * **[NameGarage](https://namegarage.com/blog/for-sale-dns-records)** - Namegarage.
