@@ -125,7 +125,7 @@ A few implementations and tools that already support RFC 10023:
 * **[DNSControl](https://github.com/DNSControl/dnscontrol/releases/tag/v5.6.0)** - Infrastructure as Code for DNS, got a builder for RFC 10023 "_for-sale" records.
 * **[Hivex](https://hivex.si/tools/domain-for-sale/example.nl)** - The free "Is this domain for sale?" checker on Hivex now reads _for-sale TXT records as defined in RFC 10023.
 * **[AdminToolkit](https://admintoolkit.io/dns-lookup/)** - DNS Lookup feature has a RFC 10023 _for-sale check and generator option.
-* **[DomainNams](https://domainnams.com/domain-for-sale-dns-record/)** - How-to.
+* **[DomainNams](https://domainnams.com/?q=example.nl)** - Tool and [how-to](https://domainnams.com/domain-for-sale-dns-record/).
 
 * **[ZoekDomeinen.nl](https://zoekdomeinen.nl/)** - In Dutch and .nl domeins only.
 * **[HostingDetails](https://expert.hostingdetails.eu/for-sale.php)** - Expert Tools.
